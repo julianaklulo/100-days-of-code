@@ -21,3 +21,12 @@ on creating SPAs and combining React with Python.
 **Link(s) to work**:
 1. [Validation with Celebrate](https://github.com/julianaklulo/omnistack11/commit/74929c5e1db4ce86dea80d1a4e8d029eb6b2de9d)
 2. [Tests with Jest](https://github.com/julianaklulo/omnistack11/commit/1660dbc6ac4d1e72242251f5cbf4db90062e57c8) 
+
+
+### Day 3: April 2, 2020.
+
+**Today's Progress**: Completed the tic-tac-toe game example available at React's documentation.
+
+**Thoughts:** Now I undestood more about the concept of states and how it is preserved in the components. 
+
+**Link(s) to work**: [Tic Tac Toe](https://github.com/julianaklulo/tutorial-react)

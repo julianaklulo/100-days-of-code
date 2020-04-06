@@ -48,3 +48,12 @@ on creating SPAs and combining React with Python.
 **Thoughts**: I'm gladly found out that one of the parts of the tutorial is focused on writing tests. Once more, I'm setting a reminder for myself to study TDD. The last part showed how to customize the admin site, which I had never done before. I guess that I should continue exploring the documentation, it seems like the best resource to improve my undestanding of Django.
 
 **Link(s) to work**: [Polls project](https://github.com/julianaklulo/tutorial-django)
+
+
+### Day 6: April 5, 2020.
+
+**Today's Progress**: Made an Genius-like game using MicroPython on a micro:bit board.
+
+**Thoughts**: I have a few boards that run MicroPython, it is quite fun to play with them. I have some unfinished IoT projects that I need to get back to.
+
+**Link(s) to work**: [Genius on micro:bit](https://twitter.com/julianaklulo/status/1246971729458728966)

@@ -57,3 +57,21 @@ on creating SPAs and combining React with Python.
 **Thoughts**: I have a few boards that run MicroPython, it is quite fun to play with them. I have some unfinished IoT projects that I need to get back to.
 
 **Link(s) to work**: [Genius on micro:bit](https://twitter.com/julianaklulo/status/1246971729458728966)
+
+
+### Day 7: April 6, 2020.
+
+**Today's Progress**: Solved the Warm Up Challenges on the Interview Preparation Kit available at Hackerrank.
+
+**Thoughts**: It has been a while since the last time I've solved these kind of logic challenges. Hackerrank accepts solutions written in Python, so I'm using it to improve my problem solving skills.
+
+**Link(s) to work**: [My Hackerrank Profile](https://www.hackerrank.com/julianaklulo)
+
+
+### Day 8: April 7, 2020.
+
+**Today's Progress**: Solved some of the Arrays Challenges on the Interview Preparation Kit available at Hackerrank.
+
+**Thoughts**: I got stuck on a problem, analysing one of the test cases I found a bug in my solution and realized that it only works in some cases. I'll try to get back to it tomorrow.
+
+**Link(s) to work**: [My Hackerrank Profile](https://www.hackerrank.com/julianaklulo)

@@ -75,3 +75,12 @@ on creating SPAs and combining React with Python.
 **Thoughts**: I got stuck on a problem, analysing one of the test cases I found a bug in my solution and realized that it only works in some cases. I'll try to get back to it tomorrow.
 
 **Link(s) to work**: [My Hackerrank Profile](https://www.hackerrank.com/julianaklulo)
+
+
+### Day 9: April 8, 2020.
+
+**Today's Progress**: Attended an online coding dojo.
+
+**Thoughts**: My mic didn't work, so I couldn't participate as pilot or copilot ): But I watched it and followed the solution of the problem. I have to buy a new microphone to be sure to participate in the next one.
+
+**Link(s) to work**: [Coding Dojo Live](https://www.youtube.com/watch?v=xp3FCr1KrV0)
